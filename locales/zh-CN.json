@@ -72,5 +72,7 @@
   "label": "通证符号",
   "decimals": "小数位数",
   "enterTokenCont": "输入通证地址并继续",
-  "note": "我们目前仅支持HECO网络，请勿转入其他网络代币进行交易。"
+  "note": "我们目前仅支持HECO网络，请勿转入其他网络代币进行交易。",
+  "reward": "奖励",
+  "wihtdrawlMine": "提现奖励"
 }
