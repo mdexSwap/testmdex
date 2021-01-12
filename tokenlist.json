@@ -261,7 +261,7 @@
       "name": "Heco-Peg FilDA Token",
       "address": "0xe36ffd17b2661eb57144ceaef942d95295e637f0",
       "symbol": "FilDA",
-      "decimals": 8,
+      "decimals": 18,
       "chainId": 128,
       "logoURI": "https://ht.mdex.com/images/FilDA.png"
     },
@@ -272,6 +272,46 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
+    },
+    {
+      "name": "Heco-Peg FC Token",
+      "address": "0x12fAC6B5Fa0bc6250058D99d3a1727628651c12E",
+      "symbol": "FC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
+    },
+    {
+      "name": "Heco-Peg FCS Token",
+      "address": "0x1b31b55cD94493d06C7a51678fb1Fe8963258A5d",
+      "symbol": "FCS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
+    },
+    {
+      "name": "Heco-Peg NULS Token",
+      "address": "0xd938e45680da19ad36646ae8d4c671b2b1270f39",
+      "symbol": "NULS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
+    },
+    {
+      "name": "Heco-Peg HPT Token",
+      "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+      "symbol": "HPT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+    },
+    {
+      "name": "Heco-Peg GSD Token",
+      "address": "0x03FA282789AF9E2574A47024b5EF1F5074edE92F",
+      "symbol": "GSD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
     }
   ]
 }
