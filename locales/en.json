@@ -89,7 +89,7 @@
   "toleranceExplanation": "Lowering this limit decreases your risk of frontrunning. However, this makes more likely that your transaction will fail due to normal price movements.",
   "tokenSearchPlaceholder": "Search name or paste address",
   "note": "Notice: We just support Heco now, don't transfer other tokens",
-  "reward": "Reward",
+  "reward": "Trading Mining",
   "wihtdrawlMine": "Withdrawal Reward",
   "help1": "The rewards that can be allocated to the pool currently.",
   "help2": "Total historical trading volume of this pool.",
