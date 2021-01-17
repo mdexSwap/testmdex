@@ -101,8 +101,8 @@
   "text3": "Current Trading",
   "text4": "Personal Trading",
   "text5": "Personal Reward",
-  "text6": "Curernt Pool‘s Rewards",
-  "text7": "Current Withdrawable Rewards",
+  "text6": "Pool‘s Rewards",
+  "text7": "Withdrawable Rewards",
   "charts": "Charts",
   "Slippagetolerance": "Slippage Tolerance",
   "enterAmount": "Enter an amount",
@@ -155,5 +155,6 @@
   "text31": "Your total pool tokens:",
   "text32": "Pool tokens in rewards pool:",
   "text33": "Your pool share:",
-  "text34": "Manage Liquidity in Rewards Pool"
+  "text34": "Manage Liquidity in Rewards Pool",
+  "liquidity": "Liquidity Mining"
 }

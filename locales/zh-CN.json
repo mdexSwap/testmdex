@@ -87,7 +87,7 @@
   "text5": "个人奖励",
   "text6": "当前池子总奖励",
   "text7": "当前个人可提现奖励",
-  "charts": "图表",
+  "charts": "行情",
   "Slippagetolerance": "滑点",
   "enterAmount": "输入金额",
   "connectWallet": "连接钱包",
@@ -141,5 +141,6 @@
   "text31": "您的总池令牌:",
   "text32": "奖励池中的代币:",
   "text33": "您的池子份额:",
-  "text34": "管理奖励池中的流动性"
+  "text34": "管理奖励池中的流动性",
+  "liquidity": "流动挖矿"
 }
