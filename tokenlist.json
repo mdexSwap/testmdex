@@ -179,15 +179,15 @@
     },
     {
       "name": "Heco-Peg HUSD Token",
-      "address": "0x9BCF032fC2C4d7E0193a4e0c3a441938129724A6",
-      "symbol": "WUSD",
+      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+      "symbol": "HUSD",
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
     },
     {
       "name": "Wrapped HT",
-      "address": "0xeF45e6A7Ecb6B9F7E2a4e9A122f9b87e12b920A5",
+      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 128,
@@ -195,35 +195,203 @@
     },
     {
       "name": "Heco-Peg ETH Token",
-      "address": "0x05AC246236181033dd24a395AFBb160764858BC7",
-      "symbol": "WETH",
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "symbol": "ETH",
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     },
     {
       "name": "Heco-Peg HBTC Token",
-      "address": "0x2A511012653e8134aF24fb9A7738bCBd5139A1cD",
-      "symbol": "WBTC",
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "symbol": "HBTC",
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6941.png"
     },
     {
+      "name": "Heco-Peg HDOT Token",
+      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+      "symbol": "HDOT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+    },
+    {
+      "name": "Heco-Peg HLTC Token",
+      "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+      "symbol": "HLTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+    },
+    {
+      "name": "Heco-Peg HBCH Token",
+      "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+      "symbol": "HBCH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+    },
+    {
+      "name": "Heco-Peg HXTZ Token",
+      "address": "0x45e97dad828ad735af1df0473fc2735f0fd5330c",
+      "symbol": "HXTZ",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+    },
+    {
+      "name": "Heco-Peg HFIL Token",
+      "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+      "symbol": "HFIL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+    },
+    {
+      "name": "Heco-Peg HBSV Token",
+      "address": "0xc2cb6b5357ccce1b99cd22232942d9a225ea4eb1",
+      "symbol": "HBSV",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png"
+    },
+    {
+      "name": "Heco BAG Token",
+      "address": "0xa042fb0e60125A4022670014AC121931e7501Af4",
+      "symbol": "BAG",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://ht.mdex.com/images/bag.png"
+    },
+    {
+      "name": "Heco BAGS Token",
+      "address": "0x6868D406a125Eb30886A6DD6B651D81677d1F22c",
+      "symbol": "BAGS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://ht.mdex.com/images/bags.png"
+    },
+    {
+      "name": "Heco NVT Token",
+      "address": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5",
+      "symbol": "NVT",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://ht.mdex.com/images/nvt.png"
+    },
+    {
+      "name": "Heco FilDA Token",
+      "address": "0xe36ffd17b2661eb57144ceaef942d95295e637f0",
+      "symbol": "FilDA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://ht.mdex.com/images/FilDA.png"
+    },
+    {
+      "name": "Heco LYFI Token",
+      "address": "0xa441b796e160e204cd0f53d3216275056a355980",
+      "symbol": "LYFI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
+    },
+    {
+      "name": "Heco FC Token",
+      "address": "0x12fAC6B5Fa0bc6250058D99d3a1727628651c12E",
+      "symbol": "FC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
+    },
+    {
+      "name": "Heco FCS Token",
+      "address": "0x1b31b55cD94493d06C7a51678fb1Fe8963258A5d",
+      "symbol": "FCS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
+    },
+    {
+      "name": "Heco NULS Token",
+      "address": "0xd938e45680da19ad36646ae8d4c671b2b1270f39",
+      "symbol": "NULS",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
+    },
+    {
+      "name": "Heco-Peg HPT Token",
+      "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+      "symbol": "HPT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+    },
+    {
+      "name": "Heco GSD Token",
+      "address": "0x03FA282789AF9E2574A47024b5EF1F5074edE92F",
+      "symbol": "GSD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
+    },
+    {
+      "name": "Heco HTC Token",
+      "address": "0x1d9B88ffFb7B78De890729aF67B68aec2eA57D52",
+      "symbol": "HTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
+    },
+    {
+      "name": "Heco HTS Token",
+      "address": "0x559c0af22D0d3efA9a8b95f2E4eaf6017aEa4c22",
+      "symbol": "HTS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
+    },
+    {
+      "name": "Heco BLC Token",
+      "address": "0x8AD1caE277B17Ca0Ad0393100E6EBd545B9367Cb",
+      "symbol": "BLC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xc657d9664f9a011a3aededab8a0296dc60284e5f.png"
+    },
+    {
+      "name": "Heco BLS Token",
+      "address": "0xc44468670837b8e0Cc39Cb822FFd2fE36Fb02Bb7",
+      "symbol": "BLS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x5ee4e3a8bd0e865205e95908b290c4578cabbeff.png"
+    },
+    {
+      "name": "Heco LHB Token",
+      "address": "0x8F67854497218043E1f72908FFE38D0Ed7F24721",
+      "symbol": "LHB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x8f67854497218043e1f72908ffe38d0ed7f24721.png"
+    },
+    {
+      "name": "Heco-Peg USDTHECO Token",
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+    },
+    {
       "name": "MDX",
-      "address": "0x53f1C40C009968bC23C9318952550711292Fb6E2",
+      "address": "0x77D1d92fc24686c77890959e30061b3fa1068a1b",
       "symbol": "MDX",
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7b9bd283Ace02f5081cDE0AA2673619e6AFEBC2/logo.png"
-    },
-    {
-      "name": "WUSDT",
-      "address": "0x82Be5c3CA3f061048062710ab359a66DCCaF9B22",
-      "symbol": "WUSDT",
-      "decimals": 6,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
   ]
 }
