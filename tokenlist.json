@@ -1,5 +1,5 @@
 {
-  "name": "Chicken List",
+  "name": "MDEX token List",
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 1,
@@ -9,7 +9,7 @@
   "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
   "keywords": [
-    "Chicken",
+    "MDEX",
     "default"
   ],
   "tokens": [
@@ -279,7 +279,7 @@
       "symbol": "NVT",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://ht.mdex.com/images/nvt.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
     },
     {
       "name": "Heco FilDA Token",
@@ -328,14 +328,6 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
-    },
-    {
-      "name": "Heco GSD Token",
-      "address": "0x03FA282789AF9E2574A47024b5EF1F5074edE92F",
-      "symbol": "GSD",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
     },
     {
       "name": "Heco HTC Token",
@@ -387,11 +379,67 @@
     },
     {
       "name": "MDX",
-      "address": "0x77D1d92fc24686c77890959e30061b3fa1068a1b",
+      "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
       "symbol": "MDX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7b9bd283Ace02f5081cDE0AA2673619e6AFEBC2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c.png"
+    },
+    {
+      "name": "BXC",
+      "address": "0x15F4c382926F8A083bC924AbD3aa84Ce3982CAa9",
+      "symbol": "BXC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x15f4c382926f8a083bc924abd3aa84ce3982caa9.png"
+    },
+    {
+      "name": "BXS",
+      "address": "0xbe0e001A5553f4421DC250A20bBdAb0e735495e3",
+      "symbol": "BXS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xbe0e001a5553f4421dc250a20bbdab0e735495e3.png"
+    },
+    {
+      "name": "ELA",
+      "address": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c",
+      "symbol": "ELA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c.png"
+    },
+    {
+      "name": "SH",
+      "address": "0x3dc2536480775d0aB5d1D010B853cd2166cf6e11",
+      "symbol": "SH",
+      "decimals": 12,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x3dc2536480775d0ab5d1d010b853cd2166cf6e11.png"
+    },
+    {
+      "name": "HIC",
+      "address": "0xc6794C116198861fa371b820BD5BF1ecf94a3565",
+      "symbol": "HIC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xc6794c116198861fa371b820bd5bf1ecf94a3565.png"
+    },
+    {
+      "name": "HIS",
+      "address": "0x3513F22a33357Ba82373680B14f0B50642d0709d",
+      "symbol": "HIS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x3513f22a33357ba82373680b14f0b50642d0709d.png"
+    },
+    {
+      "name": "GTL",
+      "address": "0xa352baa250dea5a279c825cf826891d9543bf21c",
+      "symbol": "GTL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
     }
   ]
 }
